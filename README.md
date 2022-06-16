@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @v-cal
+- 👀 I’m interested in learning things.
+- 🌱 I’m currently learning python3, web languages, and swift.
+- 💞️ I’m looking to collaborate maybe.
+- 📫 How to reach me victor.calop@gmail.com
